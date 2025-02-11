@@ -1,6 +1,6 @@
-# Dendrodoris sinusensis
+# _Dendrodoris sinusensis_, the deep-sea Dendrodoris from the Gulf
 
-This repository host the raw files for the replication of the manuscript "Insights into the phylogeny and evolution of the genus Dendrodoris (Mollusca:
+This repository host the raw files for the replication of the manuscript "Insights into the phylogeny and evolution of the genus _Dendrodoris_ (Mollusca:
 Nudibranchia) with the description of a new deep-sea species"
 
 It is structured in tree main folders:
