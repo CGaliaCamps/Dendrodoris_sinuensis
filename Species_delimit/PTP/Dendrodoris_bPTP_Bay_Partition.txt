@@ -1,0 +1,78 @@
+# Most supported partition found by simple heuristic search
+Species 1 (support = 0.509)
+     Dlimbata_Dlim1,Dlimbata_Dlim4
+
+Species 2 (support = 1.000)
+     Dcitrina_m
+
+Species 3 (support = 1.000)
+     Datromaculata_CASIZ181231
+
+Species 4 (support = 0.951)
+     Dtuberculosa_m,Dtuberculosa_U
+
+Species 5 (support = 1.000)
+     Dherytra_Dher2
+
+Species 6 (support = 0.984)
+     Dtemarana_Dgnc3,Dtemarana_Dgvc1,Dtemarana_Dsp10,Dtemarana_Dhca1,Dtemarana_Dsp11,Dtemarana_Dsen5,Dtemarana_Dtem3,Dtemarana_Dtem4
+
+Species 7 (support = 0.999)
+     Dgrandiflora_Dgcb1,Dgrandiflora_Dgra4,Dgrandiflora_Dgra6,Dgrandiflora_Dgcb2
+
+Species 8 (support = 0.999)
+     Dsenegalensis_Dsen1,Dsenegalensis_Dsp4,Dsenegalensis_Dsen2
+
+Species 9 (support = 0.935)
+     Dguttata_1,Dguttata_2,Dguttata_Ty75,Dguttata_Ty81
+
+Species 10 (support = 0.951)
+     Darborescens_14,Darborescens_Ty38,Darborescens_Ty63,Darborescens_Ty62,Darborescens_Wk03
+
+Species 11 (support = 0.985)
+     Dkrebsii_Dkre1,Dkrebsii_Dkre2,Dkrebsii_Dkre3
+
+Species 12 (support = 0.986)
+     Dwarta_FLBAR2772-24,Dwarta_FLBAR2773-24,Dwarta_FLBAR2776-24
+
+Species 13 (support = 0.991)
+     Ddenisoni_NMSC710,Dkrusensternii_19
+
+Species 14 (support = 1.000)
+     Ddenisoni_NMSC722
+
+Species 15 (support = 1.000)
+     Ddenisoni_m
+
+Species 16 (support = 1.000)
+     Ddenisoni_NMSC105
+
+Species 17 (support = 0.994)
+     Dfumata_508124,Dfumata_508314,Dfumata_Ty35,Dfumata_Kc01,Dfumata_Wk05,Dfumata_Ty17
+
+Species 18 (support = 1.000)
+     Dfumata_B61,Dfumata_CHIhD1,Dfumata_CASIZ192304
+
+Species 19 (support = 0.944)
+     Dnigra_05,Dnigra_CMLRECOM202007,Dnigra_p
+
+Species 20 (support = 1.000)
+     Dnigra_CASIZ182821
+
+Species 21 (support = 0.528)
+     Dlimbata_Dfit1
+
+Species 22 (support = 0.528)
+     Dlimbata_Dlit1
+
+Species 23 (support = 0.509)
+     Ddenisoni_Ty82
+
+Species 24 (support = 0.509)
+     Dkrusensternii_DK1
+
+Species 25 (support = 0.502)
+     Dsp
+
+Species 26 (support = 0.502)
+     Dsp_FLBAR2789-24

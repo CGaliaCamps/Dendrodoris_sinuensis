@@ -1,0 +1,25 @@
+Partition 1 
+Asap-Score: 5.000000
+Proba: 6.927465e-03
+Nb subsets with recursion:19 (without recursion: 18)
+------------------------------------------------------------
+
+Subset[ 1 ] n: 5 ;id: Darborescens_14 Darborescens_Ty38 Darborescens_Ty63 Darborescens_Ty62 Darborescens_Wk03 
+Subset[ 2 ] n: 1 ;id: Datromaculata_CASIZ181231 
+Subset[ 3 ] n: 1 ;id: Dcitrina_m 
+Subset[ 4 ] n: 5 ;id: Ddenisoni_m Ddenisoni_NMSC710 Dkrusensternii_19 Ddenisoni_Ty82 Dkrusensternii_DK1 
+Subset[ 5 ] n: 1 ;id: Ddenisoni_NMSC105 
+Subset[ 6 ] n: 1 ;id: Ddenisoni_NMSC722 
+Subset[ 7 ] n: 6 ;id: Dfumata_508124 Dfumata_508314 Dfumata_Ty35 Dfumata_Kc01 Dfumata_Wk05 Dfumata_Ty17 
+Subset[ 8 ] n: 3 ;id: Dfumata_B61 Dfumata_CASIZ192304 Dfumata_CHIhD1 
+Subset[ 9 ] n: 4 ;id: Dgrandiflora_Dgcb1 Dgrandiflora_Dgcb2 Dgrandiflora_Dgra4 Dgrandiflora_Dgra6 
+Subset[ 10 ] n: 8 ;id: Dtemarana_Dgnc3 Dtemarana_Dgvc1 Dtemarana_Dsp10 Dtemarana_Dsp11 Dtemarana_Dtem3 Dtemarana_Dtem4 Dtemarana_Dsen5 Dtemarana_Dhca1 
+Subset[ 11 ] n: 4 ;id: Dguttata_1 Dguttata_2 Dguttata_Ty75 Dguttata_Ty81 
+Subset[ 12 ] n: 1 ;id: Dherytra_Dher2 
+Subset[ 13 ] n: 3 ;id: Dkrebsii_Dkre1 Dkrebsii_Dkre2 Dkrebsii_Dkre3 
+Subset[ 14 ] n: 4 ;id: Dlimbata_Dfit1 Dlimbata_Dlit1 Dlimbata_Dlim1 Dlimbata_Dlim4 
+Subset[ 15 ] n: 4 ;id: Dnigra_05 Dnigra_CMLRECOM202007 Dnigra_p Dnigra_CASIZ182821 
+Subset[ 16 ] n: 3 ;id: Dsenegalensis_Dsen1 Dsenegalensis_Dsp4 Dsenegalensis_Dsen2 
+Subset[ 17 ] n: 2 ;id: Dsp Dsp_FLBAR2789-24 
+Subset[ 18 ] n: 2 ;id: Dtuberculosa_m Dtuberculosa_U 
+Subset[ 19 ] n: 3 ;id: Dwarta_FLBAR2772-24 Dwarta_FLBAR2773-24 Dwarta_FLBAR2776-24 
